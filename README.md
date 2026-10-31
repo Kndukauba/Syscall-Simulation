@@ -1,2 +1,2 @@
-# Syscall_Simulation
+# Syscall-Simulation
 Simulated System Calls Using Interprocess Communication (IPC).
